@@ -51,7 +51,7 @@ class SurvivalZombieGame:
             return "You lose!"
  
 
-game = SurvivalZombieGame("Steve", 5)
+game = SurvivalZombieGame("Steve", 8)
 
 result = game.start()
 
